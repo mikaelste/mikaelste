@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikaelste
-- 👀 I’m interested in Ethical Hacking
+- 🏎️ Working at Revolve NTNU Software
 - 🌱 I’m currently studying - Industrial Economics and technology leadership at NTNU, Trondheim 
-- 💞️ I’m looking to collaborate on Python hacking (with scapy)
+
 - 📫 How to reach me -> @mikaelsteenbuch on linkedIn
 
 <!---
