@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikaelste
-- 🌱 I’m currently studying - M.Sc in Physics and Mathematics and Industrial Economics and technology leadership at NTNU, Trondheim 
+- 🌱 I’m currently studying - M.Sc in Industrial Economics and Technology management at NTNU, Trondheim 
 
 - 📫 How to reach me -> @mikaelsteenbuch
 
